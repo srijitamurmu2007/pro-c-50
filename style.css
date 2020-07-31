@@ -1,0 +1,35 @@
+h1{
+    color: #0195c5;
+    
+}
+
+
+.header{
+    background-color: beige;
+    display: flex;
+    justify-content: center; 
+}
+
+h2{
+    color: rgb(46,36,45);
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
+
+.grid img{
+    border:2px blue;
+    border-radius:50px;
+}
+
+
+body{
+    background-color: darksalmon;
+}
